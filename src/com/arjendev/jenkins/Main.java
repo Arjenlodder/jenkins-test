@@ -4,7 +4,7 @@ public class Main {
 
 	public static void main(String[] args) {
 		
-		String chars = "abcdefghijklmnopqrstuvwxyz1234567890";
+		String chars = "abcdefghijklmnopqrstuvwxyz12";
 		
 		// Loop over single chars
 		for (char x : chars.toCharArray()) {
