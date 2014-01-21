@@ -21,6 +21,10 @@ public class Main {
 
 	}
 	
+	/**
+	 * @param character
+	 * @return Boolean true or false for wheter its an integer or not
+	 */
 	public static boolean isInt(String character) {
 		
 		try {
